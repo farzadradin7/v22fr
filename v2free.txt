@@ -26,3 +26,4 @@ DOMAIN-SUFFIX,play-fe.googleapis.com
 DOMAIN-SUFFIX,play-lh.googleusercontent.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,microsoft.com
