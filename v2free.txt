@@ -34,3 +34,4 @@ DOMAIN-SUFFIX,azure.com,DIRECT
 DOMAIN-SUFFIX,teams.microsoft.com,DIRECT
 DOMAIN-SUFFIX,graph.microsoft.com,DIRECT
 DOMAIN-SUFFIX,login.microsoftonline.com,DIRECT
+DOMAIN-SUFFIX,hub.beamable.network,DIRECT
