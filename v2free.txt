@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,ir,DIRECT
+DOMAIN,challenges.cloudflare.com,PROXY
+DOMAIN,cloudflare.com,DIRECT
 DOMAIN-SUFFIX,aparat.com,DIRECT
 DOMAIN-SUFFIX,thesuperboffers.com,DIRECT
 DOMAIN-SUFFIX,farsroid.com,DIRECT
