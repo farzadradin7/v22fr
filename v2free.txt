@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,ir,DIRECT
 DOMAIN-SUFFIX,cloudflare.com,DIRECT
 DOMAIN-SUFFIX,aparat.com,DIRECT
 DOMAIN-SUFFIX,thesuperboffers.com,DIRECT
