@@ -45,8 +45,10 @@ DOMAIN-SUFFIX,cdn.onenote.net,DIRECT
 DOMAIN-SUFFIX,copilot.microsoft.com,DIRECT
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com,DIRECT
 DOMAIN-SUFFIX,sdk.iad-05.braze.com,DIRECT
+DOMAIN-SUFFIX,services.bingapis.comDIRECT
 DOMAIN-KEYWORD,coploit,DIRECT
 DOMAIN-KEYWORD,microsoft,DIRECT
+DOMAIN-KEYWORD,ingest.us.sentry.io,DIRECT
 IP-CIDR,13.104.0.0/14,DIRECT
 IP-CIDR,20.33.0.0/16,DIRECT
 IP-CIDR,20.36.0.0/14,DIRECT
