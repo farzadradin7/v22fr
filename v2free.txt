@@ -45,7 +45,9 @@ DOMAIN-SUFFIX,cdn.onenote.net,DIRECT
 DOMAIN-SUFFIX,copilot.microsoft.com,DIRECT
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com,DIRECT
 DOMAIN-SUFFIX,sdk.iad-05.braze.com,DIRECT
-DOMAIN-SUFFIX,services.bingapis.comDIRECT
+DOMAIN-SUFFIX,services.bingapis.com,DIRECT
+DOMAIN-SUFFIX,app.adjust.net.in,DIRECT
+DOMAIN-SUFFIX,app.adjust.com,DIRECT
 DOMAIN-KEYWORD,coploit,DIRECT
 DOMAIN-KEYWORD,microsoft,DIRECT
 DOMAIN-KEYWORD,ingest.us.sentry.io,DIRECT
