@@ -1,5 +1,4 @@
 DOMAIN-SUFFIX,ir,DIRECT
-DOMAIN-SUFFIX,aparat.com,DIRECT
 DOMAIN-SUFFIX,thesuperboffers.com,DIRECT
 DOMAIN-SUFFIX,farsroid.com,DIRECT
 DOMAIN-SUFFIX,ip-api.com,DIRECT
@@ -16,13 +15,13 @@ DOMAIN-SUFFIX,psnprofiles.com,DIRECT
 DOMAIN-SUFFIX,store.playstation.com,DIRECT
 DOMAIN-SUFFIX,id.sonyentertainmentnetwork.com,DIRECT
 DOMAIN-SUFFIX,auth.api.sonyentertainmentnetwork.com,DIRECT
-DOMAIN-SUFFIX,play.google.com,DIRECT
-DOMAIN-SUFFIX,android.clients.google.com,DIRECT
-DOMAIN-SUFFIX,play.googleapis.com,DIRECT
-DOMAIN-SUFFIX,beacons.gcp.gvt2.com,DIRECT
-DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
-DOMAIN-SUFFIX,play-fe.googleapis.com,DIRECT
-DOMAIN-SUFFIX,play-lh.googleusercontent.com,DIRECT
+# DOMAIN-SUFFIX,play.google.com,DIRECT
+# DOMAIN-SUFFIX,android.clients.google.com,DIRECT
+# DOMAIN-SUFFIX,play.googleapis.com,DIRECT
+# DOMAIN-SUFFIX,beacons.gcp.gvt2.com,DIRECT
+# DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
+# DOMAIN-SUFFIX,play-fe.googleapis.com,DIRECT
+# DOMAIN-SUFFIX,play-lh.googleusercontent.com,DIRECT
 DOMAIN-SUFFIX,github.com,DIRECT
 DOMAIN-SUFFIX,hub.beamable.network,DIRECT
 DOMAIN-SUFFIX,ipg.sabinarya.com,DIRECT
@@ -60,4 +59,3 @@ IP-CIDR,20.96.0.0/11,DIRECT
 IP-CIDR,40.64.0.0/10,DIRECT
 IP-CIDR,52.96.0.0/12,DIRECT
 IP-CIDR,104.146.0.0/15,DIRECT
-
