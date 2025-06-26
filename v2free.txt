@@ -8,13 +8,13 @@ DOMAIN-SUFFIX,g.whatsapp.net,DIRECT
 DOMAIN-SUFFIX,web.whatsapp.com,DIRECT
 DOMAIN-SUFFIX,api.whatsapp.com,DIRECT
 DOMAIN-SUFFIX,login.microsoft.com,DIRECT
-DOMAIN-SUFFIX,playstation.com,DIRECT
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com,DIRECT
-DOMAIN-SUFFIX,playstation.net,DIRECT
-DOMAIN-SUFFIX,psnprofiles.com,DIRECT
-DOMAIN-SUFFIX,store.playstation.com,DIRECT
-DOMAIN-SUFFIX,id.sonyentertainmentnetwork.com,DIRECT
-DOMAIN-SUFFIX,auth.api.sonyentertainmentnetwork.com,DIRECT
+# DOMAIN-SUFFIX,playstation.com,DIRECT
+# DOMAIN-SUFFIX,sonyentertainmentnetwork.com,DIRECT
+# DOMAIN-SUFFIX,playstation.net,DIRECT
+# DOMAIN-SUFFIX,psnprofiles.com,DIRECT
+# DOMAIN-SUFFIX,store.playstation.com,DIRECT
+# DOMAIN-SUFFIX,id.sonyentertainmentnetwork.com,DIRECT
+# DOMAIN-SUFFIX,auth.api.sonyentertainmentnetwork.com,DIRECT
 # DOMAIN-SUFFIX,play.google.com,DIRECT
 # DOMAIN-SUFFIX,android.clients.google.com,DIRECT
 # DOMAIN-SUFFIX,play.googleapis.com,DIRECT
